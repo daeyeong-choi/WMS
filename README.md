@@ -2,10 +2,10 @@
 - 두산 로보틱스 협동 로봇을 활용한 물류 입출고 자동화 시스템 구현   
 - 스마트 팩토리의 컨셉을 생각하며 프로젝트 주제 선정
 
-사진 넣기
+![프로젝트 사진](https://github.com/daeyeong-choi/WMS/blob/main/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-09-04%2017-50-05.png)
 
 ##   개발 기간 및 개발 인원
--2025.05.09~2025.05.22
+- 2025.05.09~2025.05.22
 |  | 역할 | 담당 업무|
 | --- | --- | --- |
 | 최대영 | 팀장 | 로봇 동작 로직 개발 |
@@ -18,7 +18,14 @@
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-22314E?logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white) 
 
-두산 로보틱스 M0609, OnRobot RG2 Gripper 사진 넣기
+<p align="left">
+  <img src="https://github.com/daeyeong-choi/WMS/blob/main/images/Doosan-Robotics-M0609-Cobot.png" width="450" style="margin-right:10px;"/>
+  <img src="https://github.com/daeyeong-choi/WMS/blob/main/images/rg2.png" width="100" style="margin-right:10px;"/>
+</p>
+<p align="center">
+<img src="https://github.com/daeyeong-choi/WMS/blob/main/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-09-04%2017-47-25.png" width="400"/>
+</p>
+- m0609, RG2 Gripper, blocks
 
 ## 기능   
 
@@ -28,8 +35,11 @@
 사진
 3. 재고 확인
 사진
-  ## 로직 블록도
-사진
+## 로직 블록도
+1. 전체 로직
+![whole](https://github.com/daeyeong-choi/WMS/blob/main/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-09-04%2018-55-05.png)
+2. mode1 상세 로직
+![mode1](https://github.com/daeyeong-choi/WMS/blob/main/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-09-04%2019-15-19.png)
 ## 주요 코드
 코드 블록 넣기
 
