@@ -417,7 +417,6 @@ def main():
         else:
             print('wrong mode_select!')
     
-    ## 3번에 재고 확인 코드?
 
     rclpy.shutdown()
 
