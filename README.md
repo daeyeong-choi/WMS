@@ -5,13 +5,13 @@
 ![프로젝트 사진](https://github.com/daeyeong-choi/WMS/blob/main/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-09-04%2017-50-05.png)
 
 ##   개발 기간 및 개발 인원
-- 2025.05.09~2025.05.22
-|  | 역할 | 담당 업무|
+-2025.05.09~2025.05.22
+|     | 역할 | 담당 업무|
 | --- | --- | --- |
 | 최대영 | 팀장 | 로봇 동작 로직 개발 |
 | 장** | 팀원 |  |
 | 유** | 팀원 |  |
-| 김**| 팀원 | |
+| 김**| 팀원 |   |
   
 ## 개발환경  및 장비
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu&logoColor=white)
@@ -36,9 +36,10 @@
 3. 재고 확인
 사진
 ## 로직 블록도
-1. 전체 로직
+- 전체 동작 블록도
 ![whole](https://github.com/daeyeong-choi/WMS/blob/main/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-09-04%2018-55-05.png)
-2. mode1 상세 로직
+
+- mode1(분류 및 입고) 상세 블록도 
 ![mode1](https://github.com/daeyeong-choi/WMS/blob/main/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-09-04%2019-15-19.png)
 ## 주요 코드
 코드 블록 넣기
