@@ -391,7 +391,8 @@ def main():
                     break
                 else:
                     print('wrong number!')
-        
+                    
+##재고확인모드##재고확인모드##재고확인모드##재고확인모드##재고확인모드##재고확인모드
         elif mode_select == 3:
             while True:
                 movej(HOME_READY,vel=VELOCITY, acc=ACC)
@@ -417,7 +418,6 @@ def main():
         else:
             print('wrong mode_select!')
     
-    ## 3번에 재고 확인 코드?
 
     rclpy.shutdown()
 
