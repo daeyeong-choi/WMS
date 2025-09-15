@@ -12,7 +12,7 @@
     공식 자료는 두산로보틱스 공식 홈페이지를 참고해 주세요.
     github (https://github.com/DoosanRobotics/doosan-robot2)
 
-##   개발 기간 및 개발 인원
+## 개발 기간 및 개발 인원
 -2025.05.09~2025.05.22
 |  | 역할 | 담당 업무|
 | --- | --- | --- |
@@ -21,13 +21,17 @@
 | 유** | 팀원 | 분류 및 재고 코드 작성 및 검토 |
 | 김**| 팀원 | 분류 코드 및 보고서 작성 |
   
-## 개발환경  및 장비
+## 개발 환경 및 장비
+
+- 개발 환경
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-22314E?logo=ros&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
+
+- 장비
 <p align="left">
-  <img src="https://github.com/daeyeong-choi/WMS/blob/main/images/Doosan-Robotics-M0609-Cobot.png" width="400" />
-  <img src="https://github.com/daeyeong-choi/WMS/blob/main/images/rg2.png" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/daeyeong-choi/WMS/blob/main/images/Doosan-Robotics-M0609-Cobot.png" width="300" />
+  <img src="https://github.com/daeyeong-choi/WMS/blob/main/images/rg2.png" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/daeyeong-choi/WMS/blob/main/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-09-04%2017-47-25.png" width="400" />
 </p>
 
